@@ -5,3 +5,8 @@
 - 3d printer
 - shopbot
 ## mono fab
+
+ 
+ :smirk:
+ i have to learn 3D on shopbot
+ 
