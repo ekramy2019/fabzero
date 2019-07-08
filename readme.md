@@ -9,4 +9,4 @@
  
  :smirk:
  i have to learn 3D on shopbot
- 
+ ![my picture]( fablabredsea.png)
