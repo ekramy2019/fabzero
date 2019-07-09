@@ -13,6 +13,8 @@
 
  [press to go to the link](https://fablabs.io/)
 
-###convert
+### convert
+
 convert -rotate 90 fablabredsea.png ekramy.png
+
 convert -resize 200x200 ekramy .png ekramysmall.png
