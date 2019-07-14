@@ -1,0 +1,7 @@
+ echo start updating documentation
+ git pull
+ git add
+ git commit - m"yalla"
+ git push
+ echo i am done
+
